@@ -12,6 +12,6 @@
 ⚡ Exploring **AI/ML, LLMs, and advanced tech trends**  
 
 ## 📫 Let's Connect  
-[LinkedIn](https://www.linkedin.com/in/rohan-bage-99ba41256/)  
-[Leetcode](https://leetcode.com/u/Rohan_Bage/)
+[LinkedIn](https://www.linkedin.com/in/rohan-bage-99ba41256/)    
+[Leetcode](https://leetcode.com/u/Rohan_Bage/)<br>
 📧 Email: rohanbage2@gmail.com  
