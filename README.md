@@ -1,16 +1,17 @@
-## Hi there 👋
+# 👋 Hi, I'm Rohan Bage!  
 
-<!--
-**RohanBage/RohanBage** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Bachelor of Engineering in Information Technology.  
 
-Here are some ideas to get you started:
+## 📚 What I've Learned  
+💻 **Programming Languages**: Python, Java, C, HTML, CSS, Flask, MySQL  
+🤖 **AI/ML**: Fine-tuning LLMs, working on AI projects  
+🧠 **Problem Solving**: Solved **200+ LeetCode** questions | **100 Days Badge**  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 What I'm Working On  
+🚀 Currently developing an **AI Therapist**  
+⚡ Exploring **AI/ML, LLMs, and advanced tech trends**  
+
+## 📫 Let's Connect  
+[LinkedIn](https://www.linkedin.com/in/rohan-bage-99ba41256/)  
+[Leetcode](https://leetcode.com/u/Rohan_Bage/)
+📧 Email: rohanbage2@gmail.com  
